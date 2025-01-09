@@ -1,6 +1,6 @@
-# flutter_social_app
+# Flutter Social App
 
-A new Flutter project.
+A simple social app in sake of learning Flutter.
 
 ## Getting Started
 
